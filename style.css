@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8a670;
+}
+
+#profile-card {
+    margin: 50px;
+    background-color: #f5c3a1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    max-width: 800px;
+    padding: 20px;
+    margin-left: 250px;
+}
+
+nav {
+    margin: 50px;
+    margin-left: 580px;
+    width: fit-content;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    letter-spacing: 2px;
+    border-radius: 14px;
+}
+
+#home img {
+    width: 200px;
+}
+
+#text-section {
+    flex: 2;
+    padding-left: 50px;
+}
+
+#name {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    padding-left: 100px;
+}
+
+#contact {
+    font-size: 40px;
+}
+
+#description {
+    margin: 10px 0;
+    font-size: 20px;
+    color: rgb(27, 26, 26);
+}
+
+#fav p {
+    margin: 0;
+    font-size: 40px;
+    color: rgb(43, 39, 39);
+}
+
+#social-icons {
+    margin-left: 30px;
+    display: inline-block;
+}
+
+#social-icons img {
+    width: 40px;
+}
+
+#fav p {
+    font-size: 40-px;
+    text-align: center;
+}
+
+#fav img {
+    width: 500px;
+    padding: 50px;
+    margin-left: 350px;
+}
+
+#images img {
+    width: 500px;
+    padding: 50px;
+    margin-left: 50px;
+}
+
+#footer {
+    padding-top: 70px;
+    text-align: center;
+}
